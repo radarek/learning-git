@@ -1,3 +1,3 @@
 def say_goodbye
-  puts "Goodbye :-)"
+  puts "Goodbye :-D"
 end
